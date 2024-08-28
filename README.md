@@ -1,2 +1,2 @@
 # zero-kaata
-making a tic tac toe game
+making a tic tac toe game, first change done!
